@@ -8,11 +8,23 @@
     "build": "tsup",
     "prepublishOnly": "npm run build"
   },
-  "files": [
-    "dist"
-  ],
   "exports": {
-    "./*": "./dist/*"
+    ".": {
+      "require": "./dist/index.cjs",
+      "import": "./dist/index.js"
+    },
+    "./base/*": {
+      "require": "./dist/base/*.cjs",
+      "import": "./dist/base/*.js"
+    },
+    "./v3/": {
+      "require": "./dist/v3/index.cjs",
+      "import": "./dist/v3/index.js"
+    },
+    "./v3/*": {
+      "require": "./dist/v3/*.cjs",
+      "import": "./dist/v3/*.js"
+    }
   },
   "type": "module",
   "keywords": [],
