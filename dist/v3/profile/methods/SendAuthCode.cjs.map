@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/profile/methods/SendAuthCode.ts"],"sourcesContent":["export type RequestType = {\n  msisdn: number\n}\n\nexport type ResponseType = null\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["SendAuthCode_exports","__toCommonJS"]}

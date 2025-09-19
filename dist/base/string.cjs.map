@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/base/string.ts"],"sourcesContent":["export type ISOLanguage = string // двухбуквенный код языка ISO 639-1\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["string_exports","__toCommonJS"]}

@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/stock/methods/GetCategoryList.ts"],"sourcesContent":["import { StockCategoryShortType } from \"../types\"\n\nexport type RequestType = {\n  cookie?: string\n}\n\nexport type ResponseType = StockCategoryShortType\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetCategoryList_exports","__toCommonJS"]}

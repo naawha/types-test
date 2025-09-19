@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/forecast/methods/GetSportList.ts"],"sourcesContent":["import { ForecastSportType } from \"../types\"\n\nexport type RequestType = {\n  cookie?: string\n}\n\nexport type ResponseType = ForecastSportType[]\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetSportList_exports","__toCommonJS"]}

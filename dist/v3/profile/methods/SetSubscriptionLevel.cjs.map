@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/profile/methods/SetSubscriptionLevel.ts"],"sourcesContent":["export type RequestType = {\n  cookie: string\n  subscriptionLevel: number\n}\n\nexport type ResponseType = null\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["SetSubscriptionLevel_exports","__toCommonJS"]}

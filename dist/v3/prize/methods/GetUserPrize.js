@@ -1,1 +1,0 @@
-//# sourceMappingURL=GetUserPrize.js.map

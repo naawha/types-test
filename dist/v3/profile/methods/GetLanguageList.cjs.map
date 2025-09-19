@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/profile/methods/GetLanguageList.ts"],"sourcesContent":["import { ProfileLanguageType } from \"../types\"\n\nexport type RequestType = void\n\nexport type ResponseType = ProfileLanguageType[]\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetLanguageList_exports","__toCommonJS"]}

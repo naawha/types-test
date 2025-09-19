@@ -1,2 +1,0 @@
-import{RequestType as s}from"./methods/GetState";import{ResponseType as r}from"./methods/GetState";import{RequestType as T}from"./methods/GetStateList";import{ResponseType as y}from"./methods/GetStateList";import{RequestType as a}from"./methods/Event";import{ResponseType as n}from"./methods/Event";export{a as TriggerEventRequestType,n as TriggerEventResponseType,T as TriggerGetStateListRequestType,y as TriggerGetStateListResponseType,s as TriggerGetStateRequestType,r as TriggerGetStateResponseType};
-//# sourceMappingURL=api.js.map

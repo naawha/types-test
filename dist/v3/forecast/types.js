@@ -1,2 +1,0 @@
-var o=(r=>(r.PLANNED="PLANNED",r.STARTED="STARTED",r.FINISHED="FINISHED",r.POSTPONED="POSTPONED",r.CANCELED="CANCELED",r))(o||{}),t=(e=>(e[e.Draw=0]="Draw",e[e.Home=1]="Home",e[e.Away=2]="Away",e))(t||{});export{t as ForecastMatchResultEnum,o as ForecastMatchStatusEnum};
-//# sourceMappingURL=types.js.map

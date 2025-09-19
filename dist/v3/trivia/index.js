@@ -1,2 +1,0 @@
-var t=(e=>(e.GetQuestion="trivia.GetQuestion",e.GetState="trivia.GetState",e.Surrender="trivia.Surrender",e.Skip="trivia.Skip",e.Answer="trivia.Answer",e))(t||{}),r=t;export{r as default};
-//# sourceMappingURL=index.js.map

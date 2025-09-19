@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/forecast/methods/SaveForecast.ts"],"sourcesContent":["export type RequestType = {\n  cookie: string\n  matchId: number\n  winner?: number\n  resultHome?: number\n  resultAway?: number\n}\n\nexport type ResponseType = {\n  result: boolean\n}\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["SaveForecast_exports","__toCommonJS"]}

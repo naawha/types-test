@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/base/numbers.ts"],"sourcesContent":["export type Float = number //\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["numbers_exports","__toCommonJS"]}

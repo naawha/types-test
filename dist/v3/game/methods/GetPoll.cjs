@@ -1,2 +1,0 @@
-"use strict";var y=Object.defineProperty;var l=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var s=Object.prototype.hasOwnProperty;var T=(p,e,r,t)=>{if(e&&typeof e=="object"||typeof e=="function")for(let o of m(e))!s.call(p,o)&&o!==r&&y(p,o,{get:()=>e[o],enumerable:!(t=l(e,o))||t.enumerable});return p};var i=p=>T(y({},"__esModule",{value:!0}),p);var a={};module.exports=i(a);
-//# sourceMappingURL=GetPoll.cjs.map

@@ -1,2 +1,0 @@
-import{default as o}from"./forecast";import{default as t}from"./trigger";import{default as s}from"./clicker";import{default as l}from"./prize";import{default as d}from"./shop";import{default as x}from"./trivia";import{default as c}from"./game";import{default as k}from"./score";import{default as v}from"./profile";import{default as b}from"./stock";import{default as n}from"./media";export{s as clicker,o as forecast,c as game,n as media,l as prize,v as profile,k as score,d as shop,b as stock,t as trigger,x as trivia};
-//# sourceMappingURL=index.js.map

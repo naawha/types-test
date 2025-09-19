@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/stock/methods/GetFavoriteList.ts"],"sourcesContent":["import { StockShortType } from \"../types\"\n\nexport type RequestType = {\n  cookie: string\n}\n\nexport type ResponseType = StockShortType[]\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetFavoriteList_exports","__toCommonJS"]}

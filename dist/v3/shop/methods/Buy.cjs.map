@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/shop/methods/Buy.ts"],"sourcesContent":["export type RequestType = {\n  cookie: string\n  productId: number\n}\n\nexport type ResponseType = null\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["Buy_exports","__toCommonJS"]}

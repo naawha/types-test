@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/clicker/methods/Fight.ts"],"sourcesContent":["import { ClickerFightDetailType } from \"../types\"\n\nexport type RequestType = {\n  cookie: string\n}\n\nexport type ResponseType = ClickerFightDetailType\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["Fight_exports","__toCommonJS"]}

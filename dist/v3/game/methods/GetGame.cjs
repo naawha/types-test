@@ -1,2 +1,0 @@
-"use strict";var r=Object.defineProperty;var s=Object.getOwnPropertyDescriptor;var y=Object.getOwnPropertyNames;var g=Object.prototype.hasOwnProperty;var i=(p,e,m,o)=>{if(e&&typeof e=="object"||typeof e=="function")for(let t of y(e))!g.call(p,t)&&t!==m&&r(p,t,{get:()=>e[t],enumerable:!(o=s(e,t))||o.enumerable});return p};var n=p=>i(r({},"__esModule",{value:!0}),p);var T={};module.exports=n(T);
-//# sourceMappingURL=GetGame.cjs.map

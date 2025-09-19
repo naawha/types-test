@@ -1,2 +1,0 @@
-import{RequestType as p}from"./methods/Activate";import{ResponseType as t}from"./methods/Activate";import{RequestType as i}from"./methods/GetUserPrize";import{ResponseType as R}from"./methods/GetUserPrize";export{p as PrizeActivateRequestType,t as PrizeActivateResponseType,i as PrizeGetUserPrizeRequestType,R as PrizeGetUserPrizeResponseType};
-//# sourceMappingURL=api.js.map

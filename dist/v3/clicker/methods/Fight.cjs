@@ -1,2 +1,0 @@
-"use strict";var o=Object.defineProperty;var y=Object.getOwnPropertyDescriptor;var l=Object.getOwnPropertyNames;var s=Object.prototype.hasOwnProperty;var T=(t,e,r,i)=>{if(e&&typeof e=="object"||typeof e=="function")for(let p of l(e))!s.call(t,p)&&p!==r&&o(t,p,{get:()=>e[p],enumerable:!(i=y(e,p))||i.enumerable});return t};var c=t=>T(o({},"__esModule",{value:!0}),t);var g={};module.exports=c(g);
-//# sourceMappingURL=Fight.cjs.map

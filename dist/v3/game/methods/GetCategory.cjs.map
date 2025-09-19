@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/game/methods/GetCategory.ts"],"sourcesContent":["import { GameCategoryType } from \"../types\"\n\nexport type RequestType = {\n  cookie?: string\n  categoryId?: number\n  slug?: string\n}\n\nexport type ResponseType = GameCategoryType\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetCategory_exports","__toCommonJS"]}

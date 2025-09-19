@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/clicker/methods/FindFightOpponent.ts"],"sourcesContent":["import { ClickerFightParticipantType } from \"../types\"\n\nexport type RequestType = {\n  cookie: string\n}\n\nexport type ResponseType = ClickerFightParticipantType\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["FindFightOpponent_exports","__toCommonJS"]}

@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/base/generics.ts"],"sourcesContent":["export type OmitCookie<T> = Omit<T, \"cookie\">\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["generics_exports","__toCommonJS"]}

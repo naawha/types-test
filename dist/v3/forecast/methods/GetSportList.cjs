@@ -1,2 +1,0 @@
-"use strict";var r=Object.defineProperty;var y=Object.getOwnPropertyDescriptor;var T=Object.getOwnPropertyNames;var c=Object.prototype.hasOwnProperty;var i=(p,e,s,t)=>{if(e&&typeof e=="object"||typeof e=="function")for(let o of T(e))!c.call(p,o)&&o!==s&&r(p,o,{get:()=>e[o],enumerable:!(t=y(e,o))||t.enumerable});return p};var a=p=>i(r({},"__esModule",{value:!0}),p);var m={};module.exports=a(m);
-//# sourceMappingURL=GetSportList.cjs.map

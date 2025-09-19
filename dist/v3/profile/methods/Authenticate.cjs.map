@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/profile/methods/Authenticate.ts"],"sourcesContent":["export type RequestType = {\n  msisdn: number\n  code: string\n}\n\nexport type ResponseType = string\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["Authenticate_exports","__toCommonJS"]}

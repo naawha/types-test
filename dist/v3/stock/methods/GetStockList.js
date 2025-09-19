@@ -1,1 +1,0 @@
-//# sourceMappingURL=GetStockList.js.map

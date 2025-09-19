@@ -1,2 +1,0 @@
-import{RequestType as o}from"./methods/GetProductList";import{ResponseType as t}from"./methods/GetProductList";import{RequestType as y}from"./methods/Buy";import{ResponseType as T}from"./methods/Buy";import{RequestType as a}from"./methods/GetCategoryList";import{ResponseType as h}from"./methods/GetCategoryList";export{y as ShopBuyRequestType,T as ShopBuyResponseType,a as ShopGetCategoryListRequestType,h as ShopGetCategoryListResponseType,o as ShopGetProductListRequestType,t as ShopGetProductListResponseType};
-//# sourceMappingURL=api.js.map

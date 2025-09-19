@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/stock/methods/GetTradeSchedule.ts"],"sourcesContent":["import { StockTradeScheduleType } from \"../types\"\n\nexport type RequestType = void\n\nexport type ResponseType = StockTradeScheduleType[]\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetTradeSchedule_exports","__toCommonJS"]}

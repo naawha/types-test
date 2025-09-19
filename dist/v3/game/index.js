@@ -1,2 +1,0 @@
-var e=(t=>(t.Finish="game.Finish",t.GetGame="game.GetGame",t.Vote="game.Vote",t.Favorite="game.Favorite",t.GetCategoryList="game.GetCategoryList",t.Start="game.Start",t.GetFavoriteList="game.GetFavoriteList",t.GetGameList="game.GetGameList",t.GetPoll="game.GetPoll",t.GetCategory="game.GetCategory",t))(e||{}),G=e;export{G as default};
-//# sourceMappingURL=index.js.map

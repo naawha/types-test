@@ -1,2 +1,0 @@
-var t=(e=>(e.Authenticate="profile.Authenticate",e.GetUserState="profile.GetUserState",e.SendAuthCode="profile.SendAuthCode",e.Unsubscribe="profile.Unsubscribe",e.SetSubscriptionLevel="profile.SetSubscriptionLevel",e.GetLanguageList="profile.GetLanguageList",e.GetProfileField="profile.GetProfileField",e.SetProfileField="profile.SetProfileField",e.SetUserLanguage="profile.SetUserLanguage",e))(t||{}),i=t;export{i as default};
-//# sourceMappingURL=index.js.map

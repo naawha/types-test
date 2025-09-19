@@ -1,2 +1,0 @@
-var e=(t=>(t.Get="media.Get",t.GetProjectRating="media.GetProjectRating",t.GetList="media.GetList",t.GetListWithContent="media.GetListWithContent",t.GetTheme="media.GetTheme",t))(e||{}),G=e;export{G as default};
-//# sourceMappingURL=index.js.map

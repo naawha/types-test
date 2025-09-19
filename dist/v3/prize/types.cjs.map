@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../src/v3/prize/types.ts"],"sourcesContent":["export interface PrizeType {\n  id: number\n  slug: string\n  electronic: boolean\n  confirmed: boolean\n  activated: boolean\n  expired: boolean\n  code: string\n}\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["types_exports","__toCommonJS"]}

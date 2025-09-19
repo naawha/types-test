@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/prize/methods/GetUserPrize.ts"],"sourcesContent":["import { PrizeType } from \"../types\"\n\nexport type RequestType = {\n  cookie: string\n}\n\nexport type ResponseType = {\n  prize: PrizeType[]\n}\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetUserPrize_exports","__toCommonJS"]}

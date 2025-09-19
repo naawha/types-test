@@ -1,1 +1,0 @@
-//# sourceMappingURL=GetTopHistory.js.map

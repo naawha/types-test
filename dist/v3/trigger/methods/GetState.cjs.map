@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/trigger/methods/GetState.ts"],"sourcesContent":["import { TriggerStateType } from \"../types\"\n\nexport type RequestType = {\n  cookie: string\n  slug: string\n}\n\nexport type ResponseType = TriggerStateType\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetState_exports","__toCommonJS"]}

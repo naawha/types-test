@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/v3/score/methods/GetUserAccountState.ts"],"sourcesContent":["export type RequestType = {\n  cookie: string\n  accountSlug: string\n}\n\nexport type ResponseType = number\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetUserAccountState_exports","__toCommonJS"]}
