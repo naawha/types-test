@@ -1,0 +1,1 @@
+//# sourceMappingURL=GetCompetitionList.js.map

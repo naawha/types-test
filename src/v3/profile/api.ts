@@ -1,0 +1,21 @@
+// this is an automatically generated file
+// widerstand ist zwecklos
+
+export { RequestType as ProfileAuthenticateRequestType } from "./methods/Authenticate"
+export { ResponseType as ProfileAuthenticateResponseType } from "./methods/Authenticate"
+export { RequestType as ProfileGetUserStateRequestType } from "./methods/GetUserState"
+export { ResponseType as ProfileGetUserStateResponseType } from "./methods/GetUserState"
+export { RequestType as ProfileSendAuthCodeRequestType } from "./methods/SendAuthCode"
+export { ResponseType as ProfileSendAuthCodeResponseType } from "./methods/SendAuthCode"
+export { RequestType as ProfileUnsubscribeRequestType } from "./methods/Unsubscribe"
+export { ResponseType as ProfileUnsubscribeResponseType } from "./methods/Unsubscribe"
+export { RequestType as ProfileSetSubscriptionLevelRequestType } from "./methods/SetSubscriptionLevel"
+export { ResponseType as ProfileSetSubscriptionLevelResponseType } from "./methods/SetSubscriptionLevel"
+export { RequestType as ProfileGetLanguageListRequestType } from "./methods/GetLanguageList"
+export { ResponseType as ProfileGetLanguageListResponseType } from "./methods/GetLanguageList"
+export { RequestType as ProfileGetProfileFieldRequestType } from "./methods/GetProfileField"
+export { ResponseType as ProfileGetProfileFieldResponseType } from "./methods/GetProfileField"
+export { RequestType as ProfileSetProfileFieldRequestType } from "./methods/SetProfileField"
+export { ResponseType as ProfileSetProfileFieldResponseType } from "./methods/SetProfileField"
+export { RequestType as ProfileSetUserLanguageRequestType } from "./methods/SetUserLanguage"
+export { ResponseType as ProfileSetUserLanguageResponseType } from "./methods/SetUserLanguage"

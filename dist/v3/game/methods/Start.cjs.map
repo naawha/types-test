@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/game/methods/Start.ts"],"sourcesContent":["export type RequestType = {\n  cookie: string\n  gameId: number\n}\n\nexport type ResponseType = number\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["Start_exports","__toCommonJS"]}

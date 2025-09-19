@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/clicker/methods/Click.ts"],"sourcesContent":["import { ClickerStateType } from \"../types\"\n\nexport type RequestType = {\n  cookie: string\n  count: number\n}\n\nexport type ResponseType = ClickerStateType\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["Click_exports","__toCommonJS"]}

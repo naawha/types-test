@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/stock/methods/Favorite.ts"],"sourcesContent":["export type RequestType = {\n  cookie: string\n  stockId: number\n  state: boolean\n}\n\nexport type ResponseType = boolean\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["Favorite_exports","__toCommonJS"]}

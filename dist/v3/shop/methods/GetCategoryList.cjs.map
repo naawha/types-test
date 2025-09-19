@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/shop/methods/GetCategoryList.ts"],"sourcesContent":["import { ShopCategoryType } from \"../types\"\n\nexport type RequestType = {\n  cookie?: string\n}\n\nexport type ResponseType = {\n  category: ShopCategoryType[]\n}\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetCategoryList_exports","__toCommonJS"]}

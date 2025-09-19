@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/forecast/methods/GetTodayMatchList.ts"],"sourcesContent":["import { ForecastMatchType } from \"../types\"\n\nexport type RequestType = {\n  cookie?: string\n  limit: number\n}\n\nexport type ResponseType = ForecastMatchType[]\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetTodayMatchList_exports","__toCommonJS"]}

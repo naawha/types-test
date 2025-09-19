@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/clicker/methods/GetState.ts"],"sourcesContent":["import { ClickerStateType } from \"../types\"\n\nexport type RequestType = {\n  cookie: string\n}\n\nexport type ResponseType = ClickerStateType\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetState_exports","__toCommonJS"]}

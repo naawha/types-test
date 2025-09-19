@@ -1,0 +1,1 @@
+//# sourceMappingURL=GetCurrentForecastByCompetition.js.map

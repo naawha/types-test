@@ -1,0 +1,12 @@
+export { RequestType as GameFinishRequestType, ResponseType as GameFinishResponseType } from './methods/Finish.js';
+export { RequestType as GameGetGameRequestType, ResponseType as GameGetGameResponseType } from './methods/GetGame.js';
+export { RequestType as GameVoteRequestType, ResponseType as GameVoteResponseType } from './methods/Vote.js';
+export { RequestType as GameFavoriteRequestType, ResponseType as GameFavoriteResponseType } from './methods/Favorite.js';
+export { RequestType as GameGetCategoryListRequestType, ResponseType as GameGetCategoryListResponseType } from './methods/GetCategoryList.js';
+export { RequestType as GameStartRequestType, ResponseType as GameStartResponseType } from './methods/Start.js';
+export { RequestType as GameGetFavoriteListRequestType, ResponseType as GameGetFavoriteListResponseType } from './methods/GetFavoriteList.js';
+export { RequestType as GameGetGameListRequestType, ResponseType as GameGetGameListResponseType } from './methods/GetGameList.js';
+export { RequestType as GameGetPollRequestType, ResponseType as GameGetPollResponseType } from './methods/GetPoll.js';
+export { RequestType as GameGetCategoryRequestType, ResponseType as GameGetCategoryResponseType } from './methods/GetCategory.js';
+import './types.js';
+import '../../base/datetime.js';

@@ -1,0 +1,11 @@
+export { default as forecast } from './forecast/index.js';
+export { default as trigger } from './trigger/index.js';
+export { default as clicker } from './clicker/index.js';
+export { default as prize } from './prize/index.js';
+export { default as shop } from './shop/index.js';
+export { default as trivia } from './trivia/index.js';
+export { default as game } from './game/index.js';
+export { default as score } from './score/index.js';
+export { default as profile } from './profile/index.js';
+export { default as stock } from './stock/index.js';
+export { default as media } from './media/index.js';

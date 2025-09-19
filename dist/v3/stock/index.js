@@ -1,0 +1,2 @@
+var e=(t=>(t.GetStockList="stock.GetStockList",t.GetTradeSchedule="stock.GetTradeSchedule",t.Favorite="stock.Favorite",t.GetCategoryList="stock.GetCategoryList",t.GetForecast="stock.GetForecast",t.SaveForecast="stock.SaveForecast",t.GetFavoriteList="stock.GetFavoriteList",t.GetCategory="stock.GetCategory",t.GetStock="stock.GetStock",t))(e||{}),a=e;export{a as default};
+//# sourceMappingURL=index.js.map

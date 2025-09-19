@@ -1,0 +1,2 @@
+var e=(t=>(t.GetTopShort="score.GetTopShort",t.GetTopState="score.GetTopState",t.GetTop="score.GetTop",t.GetTopHistory="score.GetTopHistory",t.GetIntermediateTopHistory="score.GetIntermediateTopHistory",t.GetMechanicCounter="score.GetMechanicCounter",t.GetUserAccountState="score.GetUserAccountState",t))(e||{}),o=e;export{o as default};
+//# sourceMappingURL=index.js.map

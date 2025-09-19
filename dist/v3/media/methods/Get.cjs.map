@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/media/methods/Get.ts"],"sourcesContent":["import { MediaType } from \"../types\"\n\nexport type RequestType = {\n  cookie?: string\n  mediaId: number\n}\n\nexport type ResponseType = MediaType\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["Get_exports","__toCommonJS"]}

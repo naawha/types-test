@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/game/methods/Finish.ts"],"sourcesContent":["export type RequestType = {\n  cookie: string\n  sessionId: number\n  score: number\n  log: {\n    startTime: number\n    endTime: number\n    gameTime: number\n  }[]\n}\n\nexport type ResponseType = null\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["Finish_exports","__toCommonJS"]}

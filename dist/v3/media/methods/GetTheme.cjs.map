@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/media/methods/GetTheme.ts"],"sourcesContent":["export type RequestType = void\n\nexport type ResponseType = string | \"default\"\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetTheme_exports","__toCommonJS"]}

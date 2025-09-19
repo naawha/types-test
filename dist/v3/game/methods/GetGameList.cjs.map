@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/game/methods/GetGameList.ts"],"sourcesContent":["import { GameType } from \"../types\"\n\nexport type RequestType = {\n  cookie?: string\n}\n\nexport type ResponseType = GameType[]\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetGameList_exports","__toCommonJS"]}

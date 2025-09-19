@@ -1,0 +1,10 @@
+export { RequestType as ForecastGetCompetitionListRequestType, ResponseType as ForecastGetCompetitionListResponseType } from './methods/GetCompetitionList.js';
+export { RequestType as ForecastGetCurrentForecastByCompetitionRequestType, ResponseType as ForecastGetCurrentForecastByCompetitionResponseType } from './methods/GetCurrentForecastByCompetition.js';
+export { RequestType as ForecastGetMyCompetitionListRequestType, ResponseType as ForecastGetMyCompetitionListResponseType } from './methods/GetMyCompetitionList.js';
+export { RequestType as ForecastGetTodayMatchListRequestType, ResponseType as ForecastGetTodayMatchListResponseType } from './methods/GetTodayMatchList.js';
+export { RequestType as ForecastGetForecastResultRequestType, ResponseType as ForecastGetForecastResultResponseType } from './methods/GetForecastResult.js';
+export { RequestType as ForecastSaveForecastRequestType, ResponseType as ForecastSaveForecastResponseType } from './methods/SaveForecast.js';
+export { RequestType as ForecastGetCompetitionRequestType, ResponseType as ForecastGetCompetitionResponseType } from './methods/GetCompetition.js';
+export { RequestType as ForecastGetSportListRequestType, ResponseType as ForecastGetSportListResponseType } from './methods/GetSportList.js';
+import './types.js';
+import '../../base/datetime.js';

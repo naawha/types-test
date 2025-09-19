@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/game/methods/GetCategoryList.ts"],"sourcesContent":["import { GameCategoryShortType } from \"../types\"\n\nexport type RequestType = {\n  cookie?: string\n}\n\nexport type ResponseType = GameCategoryShortType[]\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetCategoryList_exports","__toCommonJS"]}

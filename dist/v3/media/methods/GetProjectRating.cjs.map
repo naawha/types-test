@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/media/methods/GetProjectRating.ts"],"sourcesContent":["import { MediaProjectRatingItemType } from \"../types\"\n\nexport type RequestType = void\n\nexport type ResponseType = MediaProjectRatingItemType[]\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetProjectRating_exports","__toCommonJS"]}

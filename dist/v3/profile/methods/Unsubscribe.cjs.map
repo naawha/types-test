@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/profile/methods/Unsubscribe.ts"],"sourcesContent":["export type RequestType = {\n  cookie: string\n}\n\nexport type ResponseType = null\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["Unsubscribe_exports","__toCommonJS"]}

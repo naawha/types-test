@@ -1,0 +1,2 @@
+"use strict";var i=Object.defineProperty;var y=Object.getOwnPropertyDescriptor;var a=Object.getOwnPropertyNames;var m=Object.prototype.hasOwnProperty;var R=(t,e,r,o)=>{if(e&&typeof e=="object"||typeof e=="function")for(let p of a(e))!m.call(t,p)&&p!==r&&i(t,p,{get:()=>e[p],enumerable:!(o=y(e,p))||o.enumerable});return t};var T=t=>R(i({},"__esModule",{value:!0}),t);var d={};module.exports=T(d);
+//# sourceMappingURL=GetProjectRating.cjs.map

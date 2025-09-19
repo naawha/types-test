@@ -1,0 +1,2 @@
+var e=(t=>(t.GetCompetitionList="forecast.GetCompetitionList",t.GetCurrentForecastByCompetition="forecast.GetCurrentForecastByCompetition",t.GetMyCompetitionList="forecast.GetMyCompetitionList",t.GetTodayMatchList="forecast.GetTodayMatchList",t.GetForecastResult="forecast.GetForecastResult",t.SaveForecast="forecast.SaveForecast",t.GetCompetition="forecast.GetCompetition",t.GetSportList="forecast.GetSportList",t))(e||{}),o=e;export{o as default};
+//# sourceMappingURL=index.js.map

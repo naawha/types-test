@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/stock/methods/GetStock.ts"],"sourcesContent":["import { StockType } from \"../types\"\n\nexport type RequestType = {\n  cookie?: string\n  stockId: number\n  days: number\n}\n\nexport type ResponseType = StockType\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetStock_exports","__toCommonJS"]}

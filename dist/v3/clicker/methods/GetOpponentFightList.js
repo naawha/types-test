@@ -1,0 +1,1 @@
+//# sourceMappingURL=GetOpponentFightList.js.map

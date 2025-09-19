@@ -1,0 +1,2 @@
+"use strict";var i=Object.defineProperty;var n=Object.getOwnPropertyDescriptor;var c=Object.getOwnPropertyNames;var y=Object.prototype.hasOwnProperty;var s=(r,e,t,p)=>{if(e&&typeof e=="object"||typeof e=="function")for(let o of c(e))!y.call(r,o)&&o!==t&&i(r,o,{get:()=>e[o],enumerable:!(p=n(e,o))||p.enumerable});return r};var u=r=>s(i({},"__esModule",{value:!0}),r);var g={};module.exports=u(g);
+//# sourceMappingURL=GetMechanicCounter.cjs.map

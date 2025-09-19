@@ -1,0 +1,2 @@
+var e=(t=>(t.GetOpponentFightList="clicker.GetOpponentFightList",t.GetState="clicker.GetState",t.Fight="clicker.Fight",t.FindFightOpponent="clicker.FindFightOpponent",t.Click="clicker.Click",t))(e||{}),i=e;export{i as default};
+//# sourceMappingURL=index.js.map

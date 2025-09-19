@@ -1,0 +1,23 @@
+// this is an automatically generated file
+// widerstand ist zwecklos
+
+export { RequestType as GameFinishRequestType } from "./methods/Finish"
+export { ResponseType as GameFinishResponseType } from "./methods/Finish"
+export { RequestType as GameGetGameRequestType } from "./methods/GetGame"
+export { ResponseType as GameGetGameResponseType } from "./methods/GetGame"
+export { RequestType as GameVoteRequestType } from "./methods/Vote"
+export { ResponseType as GameVoteResponseType } from "./methods/Vote"
+export { RequestType as GameFavoriteRequestType } from "./methods/Favorite"
+export { ResponseType as GameFavoriteResponseType } from "./methods/Favorite"
+export { RequestType as GameGetCategoryListRequestType } from "./methods/GetCategoryList"
+export { ResponseType as GameGetCategoryListResponseType } from "./methods/GetCategoryList"
+export { RequestType as GameStartRequestType } from "./methods/Start"
+export { ResponseType as GameStartResponseType } from "./methods/Start"
+export { RequestType as GameGetFavoriteListRequestType } from "./methods/GetFavoriteList"
+export { ResponseType as GameGetFavoriteListResponseType } from "./methods/GetFavoriteList"
+export { RequestType as GameGetGameListRequestType } from "./methods/GetGameList"
+export { ResponseType as GameGetGameListResponseType } from "./methods/GetGameList"
+export { RequestType as GameGetPollRequestType } from "./methods/GetPoll"
+export { ResponseType as GameGetPollResponseType } from "./methods/GetPoll"
+export { RequestType as GameGetCategoryRequestType } from "./methods/GetCategory"
+export { ResponseType as GameGetCategoryResponseType } from "./methods/GetCategory"

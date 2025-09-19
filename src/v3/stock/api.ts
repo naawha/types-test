@@ -1,0 +1,21 @@
+// this is an automatically generated file
+// widerstand ist zwecklos
+
+export { RequestType as StockGetStockListRequestType } from "./methods/GetStockList"
+export { ResponseType as StockGetStockListResponseType } from "./methods/GetStockList"
+export { RequestType as StockGetTradeScheduleRequestType } from "./methods/GetTradeSchedule"
+export { ResponseType as StockGetTradeScheduleResponseType } from "./methods/GetTradeSchedule"
+export { RequestType as StockFavoriteRequestType } from "./methods/Favorite"
+export { ResponseType as StockFavoriteResponseType } from "./methods/Favorite"
+export { RequestType as StockGetCategoryListRequestType } from "./methods/GetCategoryList"
+export { ResponseType as StockGetCategoryListResponseType } from "./methods/GetCategoryList"
+export { RequestType as StockGetForecastRequestType } from "./methods/GetForecast"
+export { ResponseType as StockGetForecastResponseType } from "./methods/GetForecast"
+export { RequestType as StockSaveForecastRequestType } from "./methods/SaveForecast"
+export { ResponseType as StockSaveForecastResponseType } from "./methods/SaveForecast"
+export { RequestType as StockGetFavoriteListRequestType } from "./methods/GetFavoriteList"
+export { ResponseType as StockGetFavoriteListResponseType } from "./methods/GetFavoriteList"
+export { RequestType as StockGetCategoryRequestType } from "./methods/GetCategory"
+export { ResponseType as StockGetCategoryResponseType } from "./methods/GetCategory"
+export { RequestType as StockGetStockRequestType } from "./methods/GetStock"
+export { ResponseType as StockGetStockResponseType } from "./methods/GetStock"

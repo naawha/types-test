@@ -1,0 +1,2 @@
+var n=(r=>(r.HIT="HIT",r.MISS="MISS",r))(n||{}),t=(e=>(e[e.Victory=1]="Victory",e[e.Defeat=2]="Defeat",e[e.Draw=3]="Draw",e[e.Stalemate=4]="Stalemate",e))(t||{});export{t as ClickerFightResultEnum,n as ClickerFightStatusEnum};
+//# sourceMappingURL=types.js.map

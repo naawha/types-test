@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/score/methods/GetTopState.ts"],"sourcesContent":["import { ScoreTopStateType } from \"../types\"\n\nexport type RequestType = {\n  cookie: string\n  topId?: number\n  topSlug?: string\n}\n\nexport type ResponseType = ScoreTopStateType\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetTopState_exports","__toCommonJS"]}

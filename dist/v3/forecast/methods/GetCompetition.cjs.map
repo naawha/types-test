@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/v3/forecast/methods/GetCompetition.ts"],"sourcesContent":["import { ForecastCompetitionType } from \"../types\"\n\nexport type RequestType = {\n  cookie: string\n  competitionId: number\n}\n\nexport type ResponseType = ForecastCompetitionType\n"],"mappings":"+WAAA,IAAAA,EAAA,kBAAAC,EAAAD","names":["GetCompetition_exports","__toCommonJS"]}
