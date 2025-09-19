@@ -11,6 +11,20 @@
   "files": [
     "dist"
   ],
+  "exports": {
+    ".": {
+      "require": "./dist/index.cjs",
+      "import": "./dist/index.js"
+    },
+    "./base/*": {
+      "require": "./dist/base/*.cjs",
+      "import": "./dist/base/*.js"
+    },
+    "./v3/**/*": {
+      "require": "./dist/base/**/*.cjs",
+      "import": "./dist/base/**/*.js"
+    }
+  },
   "type": "module",
   "keywords": [],
   "author": "",
