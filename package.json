@@ -17,7 +17,7 @@
       "require": "./dist/base/*.cjs",
       "import": "./dist/base/*.js"
     },
-    "./v3/": {
+    "./v3": {
       "require": "./dist/v3/index.cjs",
       "import": "./dist/v3/index.js"
     },
